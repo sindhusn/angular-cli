@@ -1,4 +1,4 @@
-## Adding changes - sindhu.s.nambiar
+
 ## Angular-CLI
 
 [![Join the chat at https://gitter.im/angular/angular-cli](https://badges.gitter.im/angular/angular-cli.svg)](https://gitter.im/angular/angular-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
